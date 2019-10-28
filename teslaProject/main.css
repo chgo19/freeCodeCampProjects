@@ -1,0 +1,84 @@
+div, p, ul, a, h1, h2, h3, blockquote{
+    margin: 0;padding: 0;border: 0; 
+}
+body{
+    
+}
+#maindiv{
+    padding: 2em 0 2em 0;
+}
+h1{
+    font-family: recharge,monospace;
+    font-weight: 700;
+    font-size: 300%;
+    color: #444;
+}
+h2{
+    font-family: monospace,sans-serif;
+    font-weight: 100;
+    color: #eee;
+}
+#imgdiv{
+    margin: 2em 0 0 0;
+    padding: 1em 0 1em 0;
+}
+figure{
+    padding-bottom: 0.5em;
+    display: inline-block;
+    background-color: #eee;
+}
+img{
+    width: 700px;
+    height: 500px;
+    padding: 0.5em;
+}
+#caption {
+    font-family: monospace;
+    font-weight: 100;
+    font-size: 100%;
+}
+
+#infodiv {
+    width: 70%;
+    margin: 0 auto;
+    padding: 4em 0 2em 0;
+}
+h3{
+    color: #555;
+    font-family: sans-serif;
+    font-size: 200%;
+    font-weight: 700;
+}
+ul{
+    font-family: sans-serif;
+    font-weight: normal;
+    color: #222;
+}
+li{
+    padding: 0.3em 0 0.3em 0;
+}
+strong{
+    font-family: monospace;
+}
+#quotediv{
+    padding: 0 0 2em 0;
+}
+#einstein{
+    font-family: cursive;
+    font-size: 150%;
+    color: #555;
+}
+blockquote{
+    font-family: serif;
+    font-size: 180%;
+}
+#linkdiv{
+    padding: 2em 0 2em 0;
+    color: #333;
+    font-family: cursive;
+    font-size: 130%;
+}
+#lastlink{
+    color: chocolate;
+    font-family: monospace;
+}
